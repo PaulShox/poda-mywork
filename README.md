@@ -1,4 +1,4 @@
-# Penguins.csv   
+# Penguins.ipynb   
 Analysis of the Palmer Penguins dataset
 
 ## Dataset Overview
