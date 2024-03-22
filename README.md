@@ -21,10 +21,10 @@ Exploratory Data Analysis of the Palmer Penguins dataset
 This project is useful because
 
 ## Get Started
-Download Python
-Notebook Editor. Using Visual Studio Code and then Jupyter Notebook
-    If you don't want to download a Notebook Editor, the notebook can be opened using Google's free Collab (a Google account will be needed to run the code)
-Clone repository onto your PC/laptop
+Download Python   
+Notebook Editor. Using Visual Studio Code and then Jupyter Notebook   
+    If you don't want to download a Notebook Editor, the notebook can be opened using Google's free Collab (a Google account will be needed to run the code)   
+Clone repository onto your PC/laptop   
 Run the Notebook by Restart Kernel
 
 ## Get Help   
