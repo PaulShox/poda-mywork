@@ -26,17 +26,16 @@ This project is useful because
 ## Get Started
 - Download Python   
 - Notebook Editor. Using Visual Studio Code and then Jupyter Notebook   
-    - If you don't want to download a Notebook Editor, the notebook can be opened using Google's free Collab (a Google account will be needed to run the code)   
+    - If you don't want to download a Notebook Editor, the notebook can be opened using Google's free Colab (a Google account will be needed to run the code)   
 - Clone repository onto your PC/laptop   
 - Run the Notebook by Restart Kernel
 
 ## Get Help   
-- GitHub issues link
-- Pandas documentation link
-- VS Code documentation link
+- Python download and documentation - [link](https://www.python.org/?downloads) 
+- Visual Studio Code download and documentation - [link](https://code.visualstudio.com/Docs)
+- Google Collab - [link](https://colab.research.google.com/)
+- GitHub issues - [link](https://github.com/issues)
+- Pandas documentation - [link](https://pandas.pydata.org/docs/)
 
 ## Author   
-About me....email address
-
-
-
+My name is Paul O'Shaughnessy and my email address is poseacnasaigh@gmail.com
