@@ -4,12 +4,12 @@
 ![Penguin species in the Palmer Penguins dataset](http://d3i3l3kraiqpym.cloudfront.net/wp-content/uploads/2016/04/26094914/Ad%C3%A9lie-Chinstrap-and-gentoo-penguin-species.jpg)
 
 ## About This Project
-This project will cover the following:
-- Initial exporatory data analysis of the dataset and summary of same.  
+This project contains a Jupyter notebook (penguins.ipynb) that contains analysis of the famous Palmer Penguins dataset. Please see the next section for more information about the dataset.   
+The project is being completed as part of the Higher Diploma in Science in Data Analytics with the Atlantic Technological University of Galway and covers the following:
+- Initial exporatory data analysis of the dataset.  
 - Plotting of histograms and bar charts for selected variables. 
 - Correlation analysis of selected variables.
 
- 
 ## About the Dataset
 - The Palmer Penguin dataset contains data about three penguin species located on three islands (Biscoe, Dream, Torgersen) in the Palmer Archipelago, Antarctica.
 - The three penguin species are Adelie, Gentoo, and Chinstrap.
@@ -20,12 +20,9 @@ This project will cover the following:
     - species; island; bill_length_mm; bill_depth_mm; flipper_length_mm; body_mass_g; sex; year   
 - The [dataset](https://github.com/allisonhorst/palmerpenguins/blob/main/inst/extdata/penguins.csv) was sourced from the github page of Alison Horst, who developed the dataset along with Dr. Alison Hill and Dr. Kristen B. Gorman.
 
-## Use of This Project   
-This project is useful because
-
 ## Get Started
 - Download Python   
-- Notebook Editor. Using Visual Studio Code and then Jupyter Notebook   
+- Download a Notebook Editor. This project was completed using Visual Studio Code and Jupyter Notebook   
     - If you don't want to download a Notebook Editor, the notebook can be opened using Google's free Colab (a Google account will be needed to run the code)   
 - Clone repository onto your PC/laptop   
 - Run the Notebook by Restart Kernel
@@ -38,4 +35,4 @@ This project is useful because
 - Pandas documentation - [link](https://pandas.pydata.org/docs/)
 
 ## Author   
-My name is Paul O'Shaughnessy and my email address is poseacnasaigh@gmail.com
+- My name is Paul O'Shaughnessy and my email address is poseacnasaigh@gmail.com
