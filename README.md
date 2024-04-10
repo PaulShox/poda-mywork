@@ -10,6 +10,8 @@ The project is being completed as part of the Higher Diploma in Science in Data 
 - Plotting of histograms and bar charts for selected variables. 
 - Correlation analysis of selected variables.
 
+** There are sections in the Jupyter Notebook where the recommended Python coding style outlined in [PEP 8](https://peps.python.org/pep-0008/) has not been followed. This is particularly in relation to coding for plotting and has been done intentionally in order to avoid lengthy scrolling to view the plots. 
+
 ## About the Dataset
 - The Palmer Penguin dataset contains data about three penguin species located on three islands (Biscoe, Dream, Torgersen) in the Palmer Archipelago, Antarctica.
 - The three penguin species are Adelie, Gentoo, and Chinstrap.
