@@ -7,7 +7,7 @@
 This project contains a Jupyter notebook (penguins.ipynb) that contains analysis of the famous Palmer Penguins dataset. Please see the next section for more information about the dataset.   
 The project is being completed as part of the Higher Diploma in Science in Data Analytics with the Atlantic Technological University of Galway and covers the following:
 - Initial exporatory data analysis of the dataset.  
-- Plotting of histograms and bar charts for selected variables. 
+- Plotting and analysis of histograms and bar charts for selected variables. 
 - Correlation analysis of selected variables.
 
 ** There are sections in the Jupyter Notebook where the recommended Python coding style outlined in [PEP 8](https://peps.python.org/pep-0008/) has not been followed. This is particularly in relation to coding for plotting and has been done intentionally in order to avoid lengthy scrolling to view the plots. 
