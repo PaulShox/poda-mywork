@@ -37,4 +37,4 @@ The project is being completed as part of the Higher Diploma in Science in Data 
 - Pandas documentation - [link](https://pandas.pydata.org/docs/)
 
 ## Author   
-- My name is Paul O'Shaughnessy and my email address is poseacnasaigh@gmail.com
+- My name is Paul O'Shaughnessy and my email address is poseacnasaigh@gmail.com.
